@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4632173 */
+  src: url('iconfont.woff2?t=1722165388702') format('woff2'),
+       url('iconfont.woff?t=1722165388702') format('woff'),
+       url('iconfont.ttf?t=1722165388702') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-customer-service:before {
+  content: "\e851";
+}
+
+.icon-goods:before {
+  content: "\e82c";
+}
+
+.icon-location:before {
+  content: "\e83d";
+}
+
+.icon-settings:before {
+  content: "\e840";
+}
+
+.icon-assessed-badge:before {
+  content: "\e84b";
+}
+
+.icon-a-expressdiscount:before {
+  content: "\e887";
+}
+

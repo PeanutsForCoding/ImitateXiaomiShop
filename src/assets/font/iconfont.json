@@ -1,0 +1,44 @@
+{
+  "id": "4632173",
+  "name": "小米商城",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "小米商城",
+  "glyphs": [
+    {
+      "icon_id": "34452863",
+      "name": "goods",
+      "font_class": "goods",
+      "unicode": "e82c",
+      "unicode_decimal": 59436
+    },
+    {
+      "icon_id": "34453026",
+      "name": "location",
+      "font_class": "location",
+      "unicode": "e83d",
+      "unicode_decimal": 59453
+    },
+    {
+      "icon_id": "34453058",
+      "name": "settings",
+      "font_class": "settings",
+      "unicode": "e840",
+      "unicode_decimal": 59456
+    },
+    {
+      "icon_id": "34453166",
+      "name": "assessed-badge",
+      "font_class": "assessed-badge",
+      "unicode": "e84b",
+      "unicode_decimal": 59467
+    },
+    {
+      "icon_id": "34461956",
+      "name": "express discount",
+      "font_class": "a-expressdiscount",
+      "unicode": "e887",
+      "unicode_decimal": 59527
+    }
+  ]
+}
